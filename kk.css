@@ -1,0 +1,37 @@
+.less{
+text-align:left;
+}
+.putin{
+    width: auto;
+    height: 200px;
+    margin: 20px;
+}
+.putin2{
+    width: auto;
+    height: 150px;
+    margin: 20px;
+}
+.putin3{
+    width: auto;
+    height: 192px; 
+    margin: 20px;
+}
+.fll{
+    display:flex;
+}
+.rll{
+    flex-direction: column;
+    display:flex;
+}
+.hhh{
+    text-align: center;
+}
+.btab{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+}
+.galochka{
+    width: 15px;
+    height: 15px;
+}
